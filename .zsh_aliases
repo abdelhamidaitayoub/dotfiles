@@ -1,0 +1,6 @@
+alias src='cd ~/Documents/Source/'
+alias px='pnpx'
+alias v='nvim'
+alias config='/usr/bin/git --git-dir=$HOME/dotfiles/ --work-tree=$HOME'
+alias clip='xsel --clipboard --input'
+alias t='tmux attach -t rrr3d || tmux new -s rrr3d'
